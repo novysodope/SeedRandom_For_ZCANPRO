@@ -13,7 +13,7 @@ from scipy.stats import chisquare, norm, chi2
 from collections import Counter
 from math import sqrt, log, floor
 
-# -------------------- 用户配置 --------------------
+# -------------------- 配置区 --------------------
 BIN_FILE = r""   # 修改为你的bin文件路径
 SEED_LENGTH = 4  # 每个种子字节数，仅用于显示
 # -------------------------------------------------
